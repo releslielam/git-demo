@@ -2,3 +2,9 @@ spring.mvc:
   view:
     prefix: /views/
     suffix: .jsp
+
+
+spring.redis:
+  host: 127.0.0.1
+  password:
+  port: 6379
